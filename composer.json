@@ -2,7 +2,7 @@
     "name": "robjmills/color-extract",
     "autoload": {
         "psr-4": {
-            "Robjmills\\ColorExtract\\": "src/"
+            "ColorExtract\\": "src/"
         }
     },
     "require": {

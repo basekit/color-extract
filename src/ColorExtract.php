@@ -1,4 +1,4 @@
-<?php namespace Robjmills\ColorExtract;
+<?php namespace ColorExtract;
 
 use League\ColorExtractor\Color;
 use League\ColorExtractor\ColorExtractor;
