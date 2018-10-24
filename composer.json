@@ -1,0 +1,15 @@
+{
+    "name": "robjmills/color-extract",
+    "autoload": {
+        "psr-4": {
+            "Robjmills\\ColorExtract\\": "src/"
+        }
+    },
+    "require": {
+        "league/color-extractor": "0.3.2",
+        "monolog/monolog": "^1.23",
+        "ext-gd": "*",
+        "symfony/console": "^3.3",
+        "symfony/yaml": "^2.6.1"
+    }
+}

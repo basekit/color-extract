@@ -1,0 +1,5 @@
+.DS_STORE
+vendor/*
+log.txt
+image_sets.yml
+image_sets_modified.yml
