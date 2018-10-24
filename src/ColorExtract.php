@@ -5,18 +5,8 @@ use League\ColorExtractor\ColorExtractor;
 use League\ColorExtractor\Palette;
 use Monolog\Logger;
 
-class Extract
+class ColorExtract
 {
-    /**
-     * @var Logger
-     */
-    private $logger;
-
-    public function __construct(Logger $logger)
-    {
-        $this->logger = $logger;
-    }
-
     public function extract($path)
     {
         $image = $this->assetToResource($path);
