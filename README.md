@@ -15,4 +15,4 @@ e.g.
 Memory issues?
 
 If you're having problems with PHP running out of memory you can try adding a memory limit to the call like:
-```php command.php -d memory_limit=256M ```
+```php -d memory_limit=256M command.php```
