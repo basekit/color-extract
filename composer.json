@@ -1,5 +1,5 @@
 {
-    "name": "robjmills/color-extract",
+    "name": "basekit/color-extract",
     "autoload": {
         "psr-4": {
             "ColorExtract\\": "src/"
